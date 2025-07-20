@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dineshyad
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Big data tools
-- 💞️ I’m looking to collaborate on Pyspark, sql , python
+- 🌱 I’m currently learning Snowflake and DBT
+- 💞️ I’m looking to collaborate on Snowflake, DBT, SQL and Datawarehouse
 - 📫 How to reach me 9080677462
 
 <!---
